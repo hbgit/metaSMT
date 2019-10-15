@@ -7,21 +7,24 @@ BOOST=boost-1_55_0-fs
 
 ACADEMIC="
   boolector-2.2.0
-  lingeling-ayv-86bf266-140429
-  minisat-git
   yices-2.5.1
 "
+#lingeling-ayv-86bf266-140429
+#minisat-git
+
 
 FREE="
   Z3-4.4.1
-  cvc4-smtcomp2015-stable
   stp-git-basic
-  cryptominisat-git
-  minisat-git
-  aiger-20071012
-  picosat-936
-  cudd-2.4.2
 "
+#cvc4-smtcomp2015-stable
+#cryptominisat-git
+#minisat-git
+#aiger-20071012
+#picosat-936
+#cudd-2.4.2
+
+
 
 NONFREE="
   SWORD-1.1
