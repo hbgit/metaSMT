@@ -7,9 +7,9 @@ BOOST=boost-1_55_0-fs
 
 ACADEMIC="
   boolector-2.2.0
+  lingeling-ayv-86bf266-140429
   yices-2.5.1
 "
-#lingeling-ayv-86bf266-140429
 #minisat-git
 
 
